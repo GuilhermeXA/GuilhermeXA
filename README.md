@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá meu nome é Guilherme, sou estudante de programação 👋
+
+#### Linguagens que desenvolvo:
+##### VBA
+##### Python
+##### Javascript
+##### C++
 
 <!--
 **GuilhermeXA/GuilhermeXA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
