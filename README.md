@@ -1,14 +1,13 @@
 ### Olá meu nome é Guilherme, sou estudante de programação 👋
 
 #### Linguagens que desenvolvo:
-##### VBA
-##### Python
-##### Javascript
-##### C++
 
-<!--
-**GuilhermeXA/GuilhermeXA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![python](https://user-images.githubusercontent.com/82071553/191537005-2e9daeec-e7a3-48aa-81c2-e22f940b30c8.png)
+![html](https://user-images.githubusercontent.com/82071553/191536012-954870c9-1313-45f9-9c43-bab6cf4c3af4.png)
+![css](https://user-images.githubusercontent.com/82071553/191536047-1f7f9634-ded3-4c84-ba6e-e6c6bb6de844.png)
+![javascript](https://user-images.githubusercontent.com/82071553/191536068-b638c600-42be-4b37-a3a2-eb5460cb2cd3.png)
 
+<!--**GuilhermeXA/GuilhermeXA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
