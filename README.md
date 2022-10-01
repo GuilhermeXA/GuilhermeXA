@@ -2,6 +2,12 @@
 
 #### Linguagens que estou estudando e desenvolvendo projetos atualmente:
 
+<div>
+  <a href="https://github.com/GuilhermeXA"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/GuilhermeXA&show_icons=true&theme-dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/GuilhermeXA&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
 ![python](https://user-images.githubusercontent.com/82071553/191537005-2e9daeec-e7a3-48aa-81c2-e22f940b30c8.png)
 ![html](https://user-images.githubusercontent.com/82071553/191536012-954870c9-1313-45f9-9c43-bab6cf4c3af4.png)
 ![css](https://user-images.githubusercontent.com/82071553/191536047-1f7f9634-ded3-4c84-ba6e-e6c6bb6de844.png)
