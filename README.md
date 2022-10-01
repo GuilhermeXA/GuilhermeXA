@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/GuilhermeXA"
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/GuilhermeXA&show_icons=true&theme-dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/GuilhermeXA&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/GuilhermeXA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/GuilhermeXA&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ![python](https://user-images.githubusercontent.com/82071553/191537005-2e9daeec-e7a3-48aa-81c2-e22f940b30c8.png)
