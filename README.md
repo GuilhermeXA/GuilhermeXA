@@ -1,6 +1,6 @@
 ### Oi meu nome é Guilherme, sou estudante de programação 👋
 
-#### Linguagens que estou estudando e desenvolvendo projetos atualmente: 
+#### Linguagens que estou estudando e desenvolvendo projetos atualmente : 
 
 <div>
   <a href="https://github.com/GuilhermeXA"
