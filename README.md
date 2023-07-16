@@ -14,4 +14,4 @@
 ![html](https://user-images.githubusercontent.com/82071553/191536012-954870c9-1313-45f9-9c43-bab6cf4c3af4.png)
 ![css](https://user-images.githubusercontent.com/82071553/191536047-1f7f9634-ded3-4c84-ba6e-e6c6bb6de844.png)
 ![javascript](https://user-images.githubusercontent.com/82071553/191536068-b638c600-42be-4b37-a3a2-eb5460cb2cd3.png)
-![c# logo](https://github.com/GuilhermeXA/GuilhermeXA/assets/82071553/a543b972-15fe-49fb-853c-847951d3d380)
+![c# logo](https://github.com/GuilhermeXA/GuilhermeXA/assets/82071553/9e229d06-a879-4731-a716-a5a0f146244e)
