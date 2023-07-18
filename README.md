@@ -1,17 +1,41 @@
-### Oi meu nome é Guilherme, sou estudante de programação 👋
-
-#### Linguagens que estou estudando e desenvolvendo projetos atualmente:
-<!--
 <div>
-  <a href="https://github.com/GuilhermeXA"
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/GuilhermeXA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/GuilhermeXA&layout=compact&langs_count=16&theme=dark"/>
-    <img height="80em" src="![c# logo](https://github.com/GuilhermeXA/GuilhermeXA/assets/82071553/a543b972-15fe-49fb-853c-847951d3d380)"/>
+  
+  <h1 align="center">
+    Oi meu nome é Guilherme, sou estudante de programação 👋
+    <a href="https://www.linkedin.com/in/guilherme-assun%C3%A7%C3%A3o-aa20a4164/">Guilherme </a>
+  </h1>
+  
+  <p align="center">
+    Atualmente estou desenvolvendo projetos em diversas linguagens de programação  
+  </p> 
 </div>
--->
 
-![python](https://user-images.githubusercontent.com/82071553/191537005-2e9daeec-e7a3-48aa-81c2-e22f940b30c8.png)
-![html](https://user-images.githubusercontent.com/82071553/191536012-954870c9-1313-45f9-9c43-bab6cf4c3af4.png)
-![css](https://user-images.githubusercontent.com/82071553/191536047-1f7f9634-ded3-4c84-ba6e-e6c6bb6de844.png)
-![javascript](https://user-images.githubusercontent.com/82071553/191536068-b638c600-42be-4b37-a3a2-eb5460cb2cd3.png)
-![c# logo](https://github.com/GuilhermeXA/GuilhermeXA/assets/82071553/9e229d06-a879-4731-a716-a5a0f146244e)
+<div align="center">
+  <a href="https://github.com/GuilhermeXA">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeXA&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+<div align="center" valign="top"><br>
+  <img align="center" alt="Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!--<img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Csharp/Csharp-plain.svg">-->
+  
+</div><br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-assun%C3%A7%C3%A3o-aa20a4164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/duribeiro">Eduardo Ribeiro</a></p>
+</div>
