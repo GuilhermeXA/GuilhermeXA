@@ -6,7 +6,7 @@
   </h1>
   <!--
   <p align="center"> 
-    Atualmente estou desenvolvendo projetos em diversas linguagens de programação   
+    Atualmente estou desenvolvendo projetos em diversas linguagens de programação     
   </p> 
 </div>
 -->
